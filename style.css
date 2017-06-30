@@ -3,6 +3,7 @@ body {
   line-height: 1.6;
   background: #dddddd;
   border: 5px solid #ffd24a;
+  margin: 120px
 }
 
 #site_header {
@@ -22,6 +23,7 @@ body {
 #page_content {
   background-color: white;
   padding: 15px 5px 15px 20px;
+  margin: auto;
 }
 
 h2 {
@@ -45,6 +47,7 @@ ul{
 table{
   border-bottom: 5px solid #eee;
   padding-bottom: 60px;
+  margin:auto;
 }
 
 thead td {
@@ -72,10 +75,10 @@ form {
 
 .name {
   background-color: #ff8523;
-  border-radius: 40px;
+  border-radius: 20px;
   padding: 10px 10px 10px 10px;
   color: white;
-  margin: 20px;
+  margin: 10px;
 }
 
 input {
@@ -87,8 +90,20 @@ label {
   margin-left: 30px;
 }
 
-.city
+#submit_button {
+  background-color: #1fabe5;
+  color: white;
+  text-transform: uppercase;
+  margin: 10px;
+}
 
+#bio {
+  outline: #046c97 solid thin;
+  margin: 10px;
+  height: 150px;
+  width: 800px;
+}
+/*putting it here
 
 
 
