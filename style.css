@@ -3,14 +3,12 @@ body {
   line-height: 1.6;
   background: #dddddd;
   border: 5px solid #ffd24a;
-  margin: 120px
+  margin: 120px;
 }
-
 #site_header {
   background-color: #ff8523;
   padding: 30px 300px 30px 20px;
 }
-
 .main_navigation a {
   text-decoration: none;
   color: white;
@@ -19,60 +17,49 @@ body {
   border-radius: 25px;
   margin-top: 40px;
 }
-
 #page_content {
   background-color: white;
   padding: 15px 5px 15px 20px;
   margin: auto;
 }
-
 h2 {
   color: #1fabe5;
 }
-
 p a {
   color: #1fabe5;
 }
-
 h3 {
   color: #1fabe5;
 }
-
-ul{
+ul {
   font-weight: bold;
   border-bottom: 5px solid #eee;
   padding-bottom: 60px;
 }
-
-table{
+table {
   border-bottom: 5px solid #eee;
   padding-bottom: 60px;
-  margin:auto;
+  margin: auto;
 }
-
 thead td {
   background-color: #1fabe5;
   color: white;
   border: 2px solid #046c97;
   padding: 8px 10px 8px 10px;
 }
-
 tbody td {
   border: 2px solid #1fabe5;
-  padding-left: 10px
+  padding-left: 10px;
 }
-
 td img {
   max-width: 50px;
-  height:auto;
+  height: auto;
   display: flex;
   margin: 10px;
 }
-
 form {
   background-color: #eee;
 }
-
 .name {
   background-color: #ff8523;
   border-radius: 20px;
@@ -80,47 +67,22 @@ form {
   color: white;
   margin: 10px;
 }
-
 input {
   height: 40px;
   width: 200px;
 }
-
 label {
   margin-left: 30px;
 }
-
 #submit_button {
   background-color: #1fabe5;
   color: white;
   text-transform: uppercase;
   margin: 10px;
 }
-
 #bio {
   outline: #046c97 solid thin;
   margin: 10px;
   height: 150px;
   width: 800px;
 }
-/*putting it here
-
-
-
-
-
-
-/*
-font info:
-    family - Helvetica, Arial, sans-serif
-    line-height - 1.6
-
-
-colors:
-    light gray - ##eee
-    gray - #dddddd
-    yellow - #ffd24a
-    orange - #ff8523
-    blue - #1fabe5
-    dark blue - #046c97
-*/
